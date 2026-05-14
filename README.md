@@ -46,7 +46,15 @@
 
 ---
 
-[![spotify-github-profile](https://spotify-github-profile.kittinanx.com/api/view?uid=gx76thstpko3o1bxd4qzi0792&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false)](https://github.com/kittinan/spotify-github-profile)
+<div align="center">
+  <a href="https://open.spotify.com/user/gx76thstpko3o1bxd4qzi0792">
+    <img
+      alt="spotify-github-profile"
+      src="https://spotify-github-profile.kittinanx.com/api/view.svg?uid=gx76thstpko3o1bxd4qzi0792&cover_image=true&theme=default&show_offline=false&background_color=121212&interchange=false&profanity=false"
+      width="320"
+    />
+  </a>
+</div>
 
 ---
 ## GitHub Stats
