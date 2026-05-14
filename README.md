@@ -9,7 +9,7 @@
 
 ---
 
-## 💻 Tech Stack
+## Tech Stack
 
 <div align="center">
 
@@ -34,8 +34,6 @@
 
 ---
 
-## 🟡 Pacman Contribution Graph
-
 <p align="center">
   <picture>
     <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Piyool/piyool/main/dist/pacman-contribution-graph-dark.svg">
@@ -46,7 +44,7 @@
 
 ---
 
-## 📊 GitHub Stats
+## GitHub Stats
 
 <div align="center">
 
@@ -61,7 +59,7 @@
 
 ---
 
-## 🏆 GitHub Trophies
+## GitHub Trophies
 
 <div align="center">
 
@@ -71,7 +69,7 @@
 
 ---
 
-## 🔝 Top Contributed Repo
+## Top Contributed Repo
 
 <div align="center">
 
